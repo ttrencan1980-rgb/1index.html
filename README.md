@@ -358,7 +358,7 @@
             <button class="btn-orange" style="background-color: #333;" onclick="alert('Spúšťa sa Test Bleskozvody 2...')">Test Bleskozvody 2</button>
            </div>
          </div>
-       </section>
+      
        
       <!-- 4. KONTAKT -->
     <section id="kontakt" class="page-section">
