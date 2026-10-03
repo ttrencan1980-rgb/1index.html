@@ -243,7 +243,7 @@
   <!-- HORNÉ MENU -->
   <header>
     <div class="logo-group">
-      <div class="logo-main">Revízny technik</div>
+      <div class="logo-main"> Revízny technik</div>
       <div class="logo-main"> Projektant</div>
       <div class="logo-main"> Bleskozvody</div>
       <div class="logo-sub">Online test</div>
@@ -284,8 +284,8 @@
 
         <!-- Hlavný text -->
         <div class="hero-text">
-          <h1>Správa školení</h1>
-          <p>Ať už pořádáte školení interně, zadáváte je externistům nebo agentuře, mějte kontrolu nad jejich konáním, výstupy a prezenčními listinami potřebnými k naplnění compliance povinností.</p>
+          <h1>Praktické online školenia</h1>
+          <p>Slovenská revízna a servisná spoločnosť s.r.o. je certifikovaná spoločnosť na vykonávanie výchovy a vzdelávania v oblasti ochrany práce.</p>
           <button class="btn-orange" onclick="showSection('cenik')">Vybrať testy</button>
         </div>
       </div>
@@ -294,7 +294,7 @@
     <!-- 2. CENNÍK (S ODKAZMI NA PODUJATIA / BALÍKY) -->
     <section id="cenik" class="page-section">
       <h2 style="text-align: center; margin-bottom: 10px;">Vybrať testy a podujatia</h2>
-      <p style="text-align: center; color: #aaa; margin-bottom: 40px;">Zvoľte si rozsah prístupu k testom pre BOZP, TPO a elektrotechnikov.</p>
+      <p style="text-align: center; color: #aaa; margin-bottom: 40px;">Zvoľte si rozsah prístupu k testom pre ,Revízny technik| Projektant| Bleskozvody.</p>
       
       <div class="pricing-grid">
         <div class="pricing-card">
