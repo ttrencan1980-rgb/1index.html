@@ -284,8 +284,8 @@
 
         <!-- Hlavný text -->
         <div class="hero-text">
-          <h1> Praktické online školenia </h1>
-          <p>Slovenská revízna a servisná spoločnosť s.r.o. je certifikovaná spoločnosť na vykonávanie výchovy a vzdelávania v oblasti ochrany práce.</p>
+          <h1> Praktické online školenie </h1>
+          <p>Slovenská revízna a servisná spoločnosť s.r.o. je certifikovaná spoločnosť na vykonávanie výchovy a vzdelávania.</p>
           <button class="btn-orange" onclick="showSection('cenik')">Vybrať testy</button>
         </div>
       </div>
@@ -320,15 +320,44 @@
       </div>
     </section>
 
-    <!-- 3. SKÚŠOBNÁ VERZIA -->
+   <!-- 3. SKÚŠOBNÁ VERZIA -->
     <section id="skusobna" class="page-section">
-      <div class="info-box">
-        <h2>Skúšobná verzia</h2>
-        <p style="color: #ccc; line-height: 1.6; margin-bottom: 20px;">
-          Vyskúšajte si aplikáciu a vzorové testy na 7 dní zadarmo bez akýchkoľvek záväzkov.
-        </p>
-        <button class="btn-orange" onclick="alert('Spúšťa sa skúšobná verzia...')">Spustiť zadarmo</button>
+      <div style="text-align: center; margin-bottom: 30px;">
+        <h2>Skúšobná verzia zadarmo</h2>
+        <p style="color: #aaa; margin-top: 8px;">Vyberte si kategóriu a vyskúšajte si vzorové testy bez záväzkov.</p>
       </div>
+
+      <div class="pricing-grid">
+        
+        <!-- Sekcia 1: Revízny technik -->
+        <div class="pricing-card">
+          <h3>Revízny technik</h3>
+          <p style="color: #aaa; margin-bottom: 20px;">Vzorové testy pre revíznych technikov</p>
+          <div style="display: flex; flex-direction: column; gap: 10px;">
+            <button class="btn-orange" onclick="alert('Spúšťa sa Test RT 1...')">Test RT 1</button>
+            <button class="btn-orange" style="background-color: #333;" onclick="alert('Spúšťa sa Test RT 2...')">Test RT 2</button>
+          </div>
+        </div>
+
+        <!-- Sekcia 2: Projektant -->
+        <div class="pricing-card">
+          <h3>Projektant</h3>
+          <p style="color: #aaa; margin-bottom: 20px;">Vzorové testy pre projektantov</p>
+          <div style="display: flex; flex-direction: column; gap: 10px;">
+            <button class="btn-orange" onclick="alert('Spúšťa sa Test Projektant 1...')">Test Projektant 1</button>
+            <button class="btn-orange" style="background-color: #333;" onclick="alert('Spúšťa sa Test Projektant 2...')">Test Projektant 2</button>
+          </div>
+        </div>
+
+        <!-- Sekcia 3: Bleskozvody -->
+        <div class="pricing-card">
+          <h3>Bleskozvody</h3>
+          <p style="color: #aaa; margin-bottom: 20px;">Vzorové testy pre systémy ochrany pred bleskom (LPS)</p>
+          <div style="display: flex; flex-direction: column; gap: 10px;">
+            <button class="btn-orange" onclick="alert('Spúšťa sa Test Bleskozvody 1...')">Test Bleskozvody 1</button>
+            <button class="btn-orange" style="background-color: #333;" onclick="alert('Spúšťa sa Test Bleskozvody 2...')">Test Bleskozvody 2</button>
+          </div>
+        </div>
     </section>
 
     <!-- 4. KONTAKT -->
