@@ -1,9 +1,9 @@
-<!DOCTYPE html>
+<Online školenie>
 <html lang="sk">
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title> Revízny technik | Projektant | Bleskozvody</title>
+  <title>Revízny technik| Projektant| Bleskozvody</title>
   <style>
     * {
       box-sizing: border-box;
@@ -243,7 +243,7 @@
   <!-- HORNÉ MENU -->
   <header>
     <div class="logo-group">
-      <div class="logo-main">Revízny technik | Projektant | Bleskozvody</div>
+      <div class="logo-main">Revízny technik| Projektant| Bleskozvody</div>
       <div class="logo-sub">Elektro revízny technik</div>
     </div>
 
