@@ -284,7 +284,7 @@
 
         <!-- Hlavný text -->
         <div class="hero-text">
-          <h1>Praktické online školenia</h1>
+          <h1> Praktické online školenia </h1>
           <p>Slovenská revízna a servisná spoločnosť s.r.o. je certifikovaná spoločnosť na vykonávanie výchovy a vzdelávania v oblasti ochrany práce.</p>
           <button class="btn-orange" onclick="showSection('cenik')">Vybrať testy</button>
         </div>
