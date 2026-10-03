@@ -243,8 +243,10 @@
   <!-- HORNÉ MENU -->
   <header>
     <div class="logo-group">
-      <div class="logo-main">Revízny technik| Projektant| Bleskozvody</div>
-      <div class="logo-sub">Elektro revízny technik</div>
+      <div class="logo-main">Revízny technik</div>
+      <div class="logo-main"> Projektant</div>
+      <div class="logo-main"> Bleskozvody</div>
+      <div class="logo-sub">Online test</div>
     </div>
 
     <nav>
