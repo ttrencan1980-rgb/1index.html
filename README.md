@@ -357,11 +357,10 @@
             <button class="btn-orange" onclick="alert('Spúšťa sa Test Bleskozvody 1...')">Test Bleskozvody 1</button>
             <button class="btn-orange" style="background-color: #333;" onclick="alert('Spúšťa sa Test Bleskozvody 2...')">Test Bleskozvody 2</button>
         </div>
-       </section>
-
+      </div>
+    </section>
        
-    
-    <!-- 4. KONTAKT -->
+      <!-- 4. KONTAKT -->
     <section id="kontakt" class="page-section">
       <div class="info-box">
         <h2>KONTATNÉ ÚDAJE</h2>
