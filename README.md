@@ -358,7 +358,7 @@
             <button class="btn-orange" style="background-color: #333;" onclick="alert('Spúšťa sa Test Bleskozvody 2...')">Test Bleskozvody 2</button>
            </div>
          </div>
-      
+       </section>
        
       <!-- 4. KONTAKT -->
     <section id="kontakt" class="page-section">
@@ -368,6 +368,7 @@
         <div class="info-detail"><strong>Telefón:</strong> 0911 757 674</div>
         <div class="info-detail"><strong>E-mail:</strong> ttrencan1980@gmail.com</div>
       </div>
+     </div>
     </section>
 
   </div>
