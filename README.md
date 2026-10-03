@@ -356,7 +356,6 @@
           <div style="display: flex; flex-direction: column; gap: 10px;">
             <button class="btn-orange" onclick="alert('Spúšťa sa Test Bleskozvody 1...')">Test Bleskozvody 1</button>
             <button class="btn-orange" style="background-color: #333;" onclick="alert('Spúšťa sa Test Bleskozvody 2...')">Test Bleskozvody 2</button>
-          </div>
         </div>
     </section>
 
